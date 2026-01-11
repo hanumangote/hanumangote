@@ -7,8 +7,8 @@
 
 <br/>
 
-![Hanuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanumangote&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hanumangote&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanumangote&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanumangote&layout=compact&theme=radical)
 
 </div>
