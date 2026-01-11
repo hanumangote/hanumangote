@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Hanuman! 👋
-### 🚀 DevOps Engineer & Content Creator
+# ⚡ Hanuman Gote
+### 👨‍💻 DevOps Engineer | YouTuber | Creator
 
-![Hanuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanumangote&show_icons=true&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D18B&width=435&lines=Building+DevOps+Pipelines...;Shooting+Viral+Tech+Videos...;Learning+Git+%26+GitHub...;Always+Hustling!+🚀)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanumangote&layout=compact&theme=radical)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=hanumangote&label=Profile%20Views&color=0e75b6&style=flat" alt="hanumangote" />
+![Hanuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanumangote&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanumangote&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 </div>
